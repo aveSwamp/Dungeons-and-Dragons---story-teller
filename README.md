@@ -5,8 +5,8 @@ I'm trying to digitalize process of playing DnD. In future, you'll could play in
 2)Try to think over the arсhitecture[10.10.2022 0:36];\
 3)Try to think over the player sheet[10.10.2022 0:44];\
 4)DnD story teller:\
-<br />|-Adventures: this is where your adventures will be kept;\
-<br />|-Bestiary: this will contain a library of all the creatures you want to add to your adventure;\
-<br />|-Rules: this is where your rules for your adventures will be kept;\
-<br />|-Sources: various media files will be stored here to visualize the gameplay;\
-<br />|-Tools: various tools to create an exciting gaming experience.
+ _ _ _ _ |-Adventures: this is where your adventures will be kept;\
+ _ _ _ _ |-Bestiary: this will contain a library of all the creatures you want to add to your adventure;\
+ _ _ _ _ |-Rules: this is where your rules for your adventures will be kept;\
+ _ _ _ _ |-Sources: various media files will be stored here to visualize the gameplay;\
+ _ _ _ _ |-Tools: various tools to create an exciting gaming experience.
