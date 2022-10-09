@@ -5,4 +5,6 @@ I'm trying to digitalize process of playing DnD. In future, you'll could play in
 
 1)At the begining, this will be console application)[10.10.2022 0:31];
 
-2)Try to think over the structure[10.10.2022 0:36];
+2)Try to think over the arсhitecture[10.10.2022 0:36];
+
+3)Try to think over the player sheet[10.10.2022 0:44];
